@@ -1,5 +1,13 @@
 oi
+<<<<<<< HEAD
 fasfasfsa
 asfsafsaf
 safsafsa
 afsaf
+=======
+oi sou diogo
+skosjdosdsa
+sadoadjaosd
+daosjda´jdaósda
+dkpasd
+>>>>>>> master
