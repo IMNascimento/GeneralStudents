@@ -38,14 +38,7 @@ function checkFields($array, $field){
   }
 
 }
-function erroAcert($array){
-  if (count($array["certo"]) == $array["quantidade"]) {
-    return $array["certo"];
-  }else{
-    return $array["erro"];
-  }
-}
-*/
+
 
 function check($array, $campos, $tip){
   try {
