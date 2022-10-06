@@ -4,7 +4,6 @@
 /*
 function check($array, $campos){
   $erro = array();
-  $cert = array();
   $i=0;
   foreach ($array as $key => $value) {
     if (isset($key) AND $key == $campos[$i]){
