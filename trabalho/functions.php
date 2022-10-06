@@ -1,5 +1,4 @@
 <?php
-
 /*
 function check($array, $campos){
   $erro = array();
