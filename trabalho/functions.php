@@ -2,7 +2,7 @@
 
 // refatorar passando so um array e passar no lugar a key como campo e o erro
 /*
-function check($array, $campos){
+
   $erro = array();
   $cert = array();
   $i=0;
