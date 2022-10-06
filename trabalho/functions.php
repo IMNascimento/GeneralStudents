@@ -29,7 +29,7 @@ function checkFields($array, $field){
   $check = check($array, $field);
   $result = array();
   if ($check == 1) {
-    echo "você tentou burla o sistema";
+  
   }else {
     foreach ($check as $key => $value) {
       $result[$key] = $value[0];
