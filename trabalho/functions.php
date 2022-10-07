@@ -3,11 +3,8 @@
 // refatorar passando so um array e passar no lugar a key como campo e o erro
 /*
 function check($array, $campos){
-  $erro = array();
-  $cert = array();
-  $i=0;
-  foreach ($array as $key => $value) {
-    if (isset($key) AND $key == $campos[$i]){
+ andre felipe
+  ]){
       if (!empty($key) or $value == 0) {
         $cert[$key] = $value;
       }else {
