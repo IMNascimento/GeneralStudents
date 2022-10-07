@@ -14,8 +14,7 @@ function check($array, $campos){
         $erro[$key]  = "Variavel vazia";
       }
     }else {
-      // passar o campo e passar na array cert com esse erro
-      $erro[$campos[$i]] = "Variavel não existe";
+      !!!!!!!! EU DIOGO ALTEREI ESSA PARTE DO CODIGO !!!!!!!!!!
     }
     $i++;
   }
