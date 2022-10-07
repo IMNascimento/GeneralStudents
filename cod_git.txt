@@ -1,0 +1,3 @@
+git pull ele baixa todo o diretorio (dowload)
+
+git push ele envia todo o diretorio(upload)
