@@ -6,29 +6,29 @@ Exemplo: quando o usuário entra ele clica em um botão iniciar
 quando ele termina o usuário clica no botão finalizar e exibe o tempo gasto.
 */
 
-$tempoatual= date("H:i:s");
+$time1= date("H:i:s");
 sleep(5);
-$tempofinal= date("H:i:s");
+$time2= date("H:i:s");
 
 /*
-function Tempoincial ($tempoatual){
-  return $tempoatual;
+function Tempoincial ($time1){
+  return $time1;
 }
 function Tempofinal ($tempofinal){
   return $tempofinal;
 }
 */
 
-function Tempototal($tempofinal,$tempoatual){
-    $tempototal = $tempofinal - $tempoatual;
+function Tempototal($time2,$time1){
+    $time = $time2 - $time1;
     return $tempototal;
 }
 
-echo "Hora inicial: " . $tempoatual;
+echo "Hora inicial: " . $time1;
 echo "<br>";
-echo "Hora final: " . $tempofinal;
+echo "Hora final: " . $time2;
 echo "<br>";
-echo "O tempo do SERVIÇO foi: " . Tempototal ($tempofinal,$tempoatual);
+echo "O tempo do SERVIÇO foi: " . Tempototal ($time1,$time2;
 echo "<br>";
 
 
