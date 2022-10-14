@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.topo{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(37, 35, 35);
+    color: aliceblue;
+}
+
+.formOne{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.formTwo{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+h2{
+    color: rgb(240, 248, 255);
+}
+
+input{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.botao{
+    margin-top: 10px;
+    margin-left: 900px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(37, 35, 35);
+}
+
+
