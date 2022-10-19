@@ -1,0 +1,24 @@
+Exception: number = Variable vazia in C:\xampp\htdocs\functioncheck\trabalho\functions.php:59
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}Exception: User manipulated input field and removed the names. in C:\xampp\htdocs\functioncheck\trabalho\functions.php:55
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}Exception: User manipulated input field and removed some names. in C:\xampp\htdocs\functioncheck\trabalho\functions.php:58
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}
+<br>Exception: num = Variable vazia in C:\xampp\htdocs\functioncheck\trabalho\functions.php:65
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}<br />
+<br><p>Exception: num = Variable vazia in C:\xampp\htdocs\functioncheck\trabalho\functions.php:65
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}</p><br /><br><b>Exception: number = Variable vazia in C:\xampp\htdocs\functioncheck\trabalho\functions.php:65
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}</b><br />Exception: User manipulated input field and removed some names. in C:\xampp\htdocs\functioncheck\trabalho\functions.php:58
+Stack trace:
+#0 C:\xampp\htdocs\functioncheck\trabalho\teste.php(13): check(Array, Array, Array)
+#1 {main}
